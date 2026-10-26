@@ -1,4 +1,4 @@
-# Email to CSV
+# text to CSV
 
 I built this to turn messy client messages into a clean spreadsheet. It reads the text, pulls out the important details with the Gemini API, and saves them as a CSV.
 
